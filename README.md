@@ -12,3 +12,10 @@
 - Removed irrelevant customerID column
 - Encoded churn variable into numeric format
 - Saved cleaned dataset
+
+### Phase 3 — Feature Engineering
+- Created tenure-based customer groups
+- Calculated total number of services used
+- Categorized monthly charge levels
+- Computed average monthly spend feature
+- Updated cleaned dataset with engineered features
