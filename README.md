@@ -21,8 +21,6 @@
 - Updated cleaned dataset with engineered features
 
 ### Phase 4 — Exploratory Data Analysis
-Key Findings:
-
 - Month-to-month customers show highest churn rates
 - Higher monthly charges are associated with increased churn
 - Long-term contract customers show strong retention
